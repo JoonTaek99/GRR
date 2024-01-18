@@ -1,0 +1,29 @@
+C:\Users\ljt29\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\ljt29\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\ljt29\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\ljt29\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\ljt29\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form2.resources
+C:\Users\ljt29\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form3.resources
+C:\Users\ljt29\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\ljt29\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\ljt29\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\ljt29\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\Users\ljt29\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+C:\Users\ljt29\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form4.resources
+C:\Users\ljt29\Documents\임준택\창의설계\진짜 구현\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\ljt29\Documents\임준택\창의설계\진짜 구현\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\ljt29\Documents\임준택\창의설계\진짜 구현\obj\Debug\WindowsFormsApplication5.pdb
+C:\Users\ljt29\Documents\임준택\창의설계\진짜 구현\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\ljt29\Documents\임준택\창의설계\진짜 구현\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\ljt29\Documents\임준택\창의설계\진짜 구현\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+C:\Users\ljt29\Documents\임준택\창의설계\진짜 구현\obj\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\ljt29\Documents\임준택\창의설계\진짜 구현\obj\Debug\WindowsFormsApplication5.Form2.resources
+C:\Users\ljt29\Documents\임준택\창의설계\진짜 구현\obj\Debug\WindowsFormsApplication5.Form3.resources
+C:\Users\ljt29\Documents\임준택\창의설계\진짜 구현\obj\Debug\WindowsFormsApplication5.Form4.resources
+C:\Users\ljt29\Documents\임준택\창의설계\진짜 구현\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\ljt29\Documents\임준택\창의설계\진짜 구현\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\ljt29\Documents\임준택\창의설계\진짜 구현\obj\Debug\WindowsFormsApplication5.Form5.resources
+C:\Users\ljt29\Documents\임준택\창의설계\진짜 구현\obj\Debug\WindowsFormsApplication5.Form6.resources
+C:\Users\ljt29\Documents\임준택\창의설계\진짜 구현\obj\Debug\WindowsFormsApplication5.Form7.resources
+C:\Users\ljt29\Documents\임준택\창의설계\진짜 구현\obj\Debug\WindowsFormsApplication5.Form8.resources
+C:\Users\ljt29\Documents\임준택\창의설계\진짜 구현\obj\Debug\WindowsFormsApplication5.Form9.resources
